@@ -6,7 +6,7 @@ export const DEBUG = true; // Debug mode
 export const MODERATION = false; // Moderation mode
 
 // Rate limit
-export const PRIOD = 15 * 1000; // 15 seconds
+export const PRIOD = 1 * 1000; // 15 seconds
 export const RATE_LIMIT = 50; // 50 requests per 15 seconds
 
 // Whitelisted IPs
